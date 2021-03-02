@@ -4,5 +4,5 @@ In detail:
 * [LA CRIME ANALYSIS.pdf](https://github.com/stef4k/Business-Intelligence-Big-Data/blob/main/LA%20CRIME%20ANALYSIS.pdf) is the whole detailed analysis written in greek 
 * [clearing_LAcrimes_dataset.ipynb](https://github.com/stef4k/Business-Intelligence-Big-Data/blob/main/clearing_LAcrimes_dataset.ipynb) is the file describing the ETL process. 
 * [DATA VISUALISATION.ipynb](https://github.com/stef4k/Business-Intelligence-Big-Data/blob/main/DATA%20VISUALISATION.ipynb) are some examples of simple visualisations of the crime data. 
-* [DATA_MINING - CLUSTERING.ipynb](https://github.com/stef4k/Business-Intelligence-Big-Data/blob/main/DATA_MINING%20-%20CLUSTERING.ipynb) describes three different clustering analysis. 
-* [RANDOM_TREES.ipynb](https://github.com/stef4k/Business-Intelligence-Big-Data/blob/main/RANDOM_TREES.ipynb) is the analysis of training decision trees and its extensions in order to predict the crime type of unique incidents based on the rest information. 
+* [DATA_MINING - CLUSTERING.ipynb](https://github.com/stef4k/Business-Intelligence-Big-Data/blob/main/DATA_MINING%20-%20CLUSTERING.ipynb) describes three different clustering analyses. 
+* [RANDOM_TREES.ipynb](https://github.com/stef4k/Business-Intelligence-Big-Data/blob/main/RANDOM_TREES.ipynb) is the analysis of training decision trees and its extensions in order to predict the crime type of unique incidents by using the rest information. 
